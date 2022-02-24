@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "989462869351",
+    "firebase_url": "https://lolli-94219-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lolli-94219",
+    "storage_bucket": "lolli-94219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989462869351:android:74440dd8b8560a55ba2bc2",
+        "android_client_info": {
+          "package_name": "com.example.lollipop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989462869351-2gu4862mkpg6vc1ea4ae3vlbtjbe1rkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSnCPsWt4ecOorcxdyqVht6AhyMmzAoRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989462869351-2gu4862mkpg6vc1ea4ae3vlbtjbe1rkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/Glauco/Lollipop/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/Glauco/Lollipop/app/src/main/res/layout/fragment_book.xml" value="0.18342391304347827" />
+        <entry key="..\:/Users/Glauco/Lollipop/app/src/main/res/layout/fragment_my_library.xml" value="0.14990942028985507" />
+        <entry key="..\:/Users/Glauco/Lollipop/app/src/main/res/layout/fragment_search.xml" value="0.22" />
+        <entry key="app/res/layout/custom_preview.xml" value="0.13072916666666667" />
+        <entry key="app/src/main/res/drawable/ic_baseline_visibility_24.xml" value="0.24895833333333334" />
+        <entry key="app/src/main/res/drawable/ic_search.xml" value="0.19479166666666667" />
+        <entry key="app/src/main/res/layout/activity_after_login.xml" value="0.3916744051340592" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.30434782608695654" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.3946530860679994" />
+        <entry key="app/src/main/res/layout/activity_login_register.xml" value="0.48804568351094557" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22489536406070074" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.55" />
+        <entry key="app/src/main/res/layout/activity_reset_password.xml" value="0.25367076826192125" />
+        <entry key="app/src/main/res/layout/activity_settings.xml" value="0.2552083333333333" />
+        <entry key="app/src/main/res/layout/bottom_nav_menu.xml" value="0.134375" />
+        <entry key="app/src/main/res/layout/custom_item_list.xml" value="0.2601851851851852" />
+        <entry key="app/src/main/res/layout/fragment_book.xml" value="0.3701923076923077" />
+        <entry key="app/src/main/res/layout/fragment_fragmet_audio_player.xml" value="0.3449074074074074" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.25551597425127714" />
+        <entry key="app/src/main/res/layout/fragment_my_library.xml" value="0.36983240223463687" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.29298067141403866" />
+        <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.3171875" />
+        <entry key="app/src/main/res/layout/grid_item.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/recycler_item.xml" value="0.4304773173536297" />
+        <entry key="app/src/main/res/layout/root_preferences.xml" value="0.17239583333333333" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.17239583333333333" />
+        <entry key="app/src/main/res/xml/root_preferences.xml" value="0.3333333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

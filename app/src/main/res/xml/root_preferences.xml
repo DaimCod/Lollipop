@@ -1,0 +1,35 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        app:icon="@drawable/ic_person"
+        app:title="@string/account">
+        <EditTextPreference
+            android:id="@+id/name_id"
+            app:key="name_key"
+            app:summary="@string/user_name"
+            app:title="@string/account_name" />
+
+        <EditTextPreference
+            android:id="@+id/surname_id"
+            app:key="surname_key"
+            app:summary="@string/user_surname"
+            app:title="@string/account_surname" />
+
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/about">
+
+        <EditTextPreference
+            android:id="@+id/our_link"
+            app:key="link_key"
+            app:summary="@string/github"
+            app:title="@string/link_title" />
+
+
+    </PreferenceCategory>
+
+
+
+</PreferenceScreen>

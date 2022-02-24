@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottom_nav"
+    app:startDestination="@id/fragment_home">
+
+    <fragment
+        android:id="@+id/fragment_home"
+        android:name="com.example.lollipop.fragments.FragmentHome"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_home">
+        <action
+            android:id="@+id/go_To_Settings"
+            app:destination="@id/settingsFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/fragment_search"
+        android:name="com.example.lollipop.fragments.FragmentSearch"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_search" />
+
+    <fragment
+        android:id="@+id/fragment_my_library"
+        android:name="com.example.lollipop.fragments.FragmentMyLibrary"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_my_library" />
+    <fragment
+        android:id="@+id/fragment_book"
+        android:name="com.example.lollipop.fragments.FragmentBook"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_book" />
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.example.lollipop.settings.PreferencesFragmentSettings"
+        android:label="@string/settings" />
+
+    <!--Global action-->
+    <action
+        android:id="@+id/go_To_home"
+        app:destination="@id/fragment_home" />
+    <fragment
+        android:id="@+id/fragment_audio_player"
+        android:name="com.example.lollipop.fragments.FragmentAudioPlayer"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_fragmet_audio_player" />
+</navigation>

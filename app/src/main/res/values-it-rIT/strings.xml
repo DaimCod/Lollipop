@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lollipop</string>
+    <string name="sample_mail">esempio@mail.com</string>
+    <string name="sample_password">password</string>
+    <string name="login_text">Login</string>
+    <string name="register_text">Registrati</string>
+    <string name="reset_text">Password dimenticata?</string>
+    <string name="user_name">Nome</string>
+    <string name="user_surname">Cognome</string>
+    <string name="user_age">Eta\'</string>
+    <string name="homeTitle">Bentornato</string>
+    <string name="searchTitle">Cerca un Libro</string>
+    <string name="my_libraryTitle">La tua Libreria</string>
+    <string name="home">Home</string>
+    <string name="search">Cerca</string>
+    <string name="my_library">La mia Libreria</string>
+    <string name="surname_error">Cognome necessario!</string>
+    <string name="name_error">Nome necessario!</string>
+    <string name="age_required">Eta\' necessaria!</string>
+    <string name="mail_error">Fornisci una mail valida!</string>
+    <string name="void_password">Password necessaria!</string>
+    <string name="error_password">Almeno 8 caratteri, una maiscola, un numero, uno speciale, niente spazie</string>
+    <string name="registration_complete">Registrazione avvenuta!</string>
+    <string name="registration_error">Errore, prova di nuovo!</string>
+    <string name="error_login">Accesso negato, riprova!</string>
+    <string name="login_complete">Accesso riuscito!</string>
+    <string name="remember_me">Ricordami</string>
+    <string name="reset_password">Resetta password</string>
+    <string name="email_reset_sent">Mail iniviata!</string>
+    <string name="grid_title_sample">Un libro</string>
+    <string name="fragment_home_title">Catalogo libri</string>
+    <string name="author_spacer">di</string>
+    <string name="book_categories">"Generi: "</string>
+    <string name="book_authors">"Autori: "</string>
+    <string name="book_year">"Anno di stampa: "</string>
+    <string name="book_description">Descrizione:</string>
+    <string name="sample_book_data">Riempiposto</string>
+    <string name="listen_button">Inizia ad ascoltare!</string>
+    <string name="a_book">"Libro selezionato: "</string>
+    <string name="no_internet">No connessione ad internet!</string>
+
+    <string name="account">Account</string>
+    <string name="about">Informazioni</string>
+
+    <!-- Messages Preferences -->
+    <string name="account_name">Il tuo nome</string>
+    <string name="account_surname">Il tuo cognome</string>
+
+    <!-- About -->
+    <string name="link_title">Il nostro link</string>
+    <string name="github"><a href="https://github.com/AK-JasonTodd/Lollipop"></a>GitHub</string>
+    <string name="search_book">ES: Harry Potter...</string>
+    <string name="label_likedBooks">Libri piaciuti</string>
+    <string name="label_readBooks">Libri letti</string>
+    <string name="update_favorites">Libro aggiunto ai preferiti!</string>
+    <string name="no_liked_books">Non ci sono libri piaciuti</string>
+    <string name="no_read_books">Non ci sono libri letti</string>
+    <string name="search_hint">cerca un libro</string>
+    <string name="sherlock_lens">sherlock lente</string>
+    <string name="noBooks">Nessun libro corrisponde alla ricerca</string>
+    <string name="time">00:00</string>
+    <string name="settings">Impostazioni</string>
+</resources>
